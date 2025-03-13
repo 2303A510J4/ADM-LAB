@@ -22,7 +22,7 @@ https://github.com/2303A510J4/ADM-LAB/blob/main/ADM%20LAB-05%20.ipynb
 
 Lab 06
 
-
+https://github.com/2303A510J4/ADM-LAB/blob/main/ADM%20LAB-06.ipynb
 
 Lab 07
 
