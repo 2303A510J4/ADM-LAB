@@ -26,4 +26,4 @@ https://github.com/2303A510J4/ADM-LAB/blob/main/ADM%20LAB-06.ipynb
 
 Lab 07
 
-https://github.com/2303A510J4/ADM-LAB/blob/main/ADM%20LAB-07.ipynb
+https://github.com/2303A510J4/ADM-LAB/blob/main/ADM%20Lab-07.ipynb
